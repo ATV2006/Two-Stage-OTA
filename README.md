@@ -1,7 +1,6 @@
-# 2-Stage Miller-Compensated OTA — Design Assignment 2
+# 2-Stage Miller-Compensated OTA 
 
-**Name:** Chobe Atharwa Atul  
-**Roll No.:** 240102106  
+
 **Technology:** TSMC 180nm (tsmc018.lib)
 
 ---
